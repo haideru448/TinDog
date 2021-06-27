@@ -1,0 +1,160 @@
+#title
+{background-color:#ff4c68;
+color:white;
+
+}
+body{font-family: 'Montserrat', sans-serif;
+overflow-x:hidden;
+width: 100%;
+
+}
+.heading1
+{font-family: 'Montserrat-Black', sans-serif;
+font-size: 3rem;
+line-height: 1.5;
+font-weight:800;
+}
+.playstore
+{}
+.flui
+{padding:3%;
+  width:100%;
+  padding-bottom:100px;
+  }
+.navbar-brand
+{font-family: 'Ubuntu', sans-serif;
+font-size:2.5rem;
+font-weight:bold;}
+.navbar
+{padding-bottom:4.5rem;
+padding-left: 0;}
+.navbar-item
+{padding:0 18px;
+}
+.nav-link
+{font-size: 1.2rem;
+font-family:"Montserrat-light";}
+  .btn
+  {margin:5% 3%  5% 0;}
+  .title-image
+  {width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    right:30%;
+}
+@media (max-width: 1028px)
+{#title
+  {text-align:center;}
+  .title-image
+{position: static;
+transform: rotate(0deg);
+text-align:center;}
+}
+.icons
+{text-align: center;}
+.fafa
+{font-size: 2.625rem;
+  padding-bottom: 10px;
+color:#ef8172;}
+.iconhead
+{font-size:1.5rem;
+  font-weight: bold;
+
+font-family: 'Montserrat', sans-serif;}
+.iconp
+{color:#8f8f8f;
+padding:5%}
+#features
+{padding-top:60px;
+padding-bottom:60px;}
+i:hover
+{color:#ff4c68;}
+
+#testimonials
+{
+text-align: center;
+background-color:#ef8172;
+color:white;
+}
+
+.testimonialtext
+{color:white;
+font-family: 'Montserrat', sans-serif;
+
+font-weight: bold;
+font-size:3rem;
+line-height: 1.5;}
+.dogimage
+{border-radius: 50%;
+width:10%;
+margin: 20px;}
+#press
+{background-color:#ef8172;
+padding-bottom: 3%;
+text-align: center;}
+.press-logo
+{width:15%;
+margin:20px 20px 50px;}
+.ladyimage
+{border-radius: 50%;
+    width: 10%;
+    margin: 20px;}
+.carousel-item
+{padding: 7% 15%;}
+
+
+.midcontainer
+{margin-top:0;
+margin-bottom: 0;}
+.row
+{padding:100px;}
+.card-header, .card-body
+{text-align: center;}
+.labra
+{padding-bottom: 20px;}
+.pricingcolumn
+{padding:2% 3%;}
+.content
+{padding:0;}
+#features
+{position: relative;
+padding-top:0;
+  background-color: white;
+}
+/* Buying plan heading and paragraph */
+.plancolumn, .planheading
+{text-align: center;}
+#cta
+{background-color: #ff4c68;}
+/* planning rows padding  */
+.planrow
+{padding:50px;}
+/* footer downloading text */
+.downloadtext
+{font-family: 'Montserrat';
+font-weight:bold;
+text-align: center;
+font-size: 3rem;
+color:white;
+}
+.footerrow
+{padding:100px 200px;
+text-align:center;}
+@media (max-width:900px)
+{.footerrow
+{padding:50px 50px;
+  }}
+/* download buttons for footer */
+.footerdownloadbuttons
+{padding-top:10px;}
+/* footer social icons */
+.footericons
+{text-align:center;
+padding:0;}
+#footer
+{padding:50px;}
+/* fafa icons footer */
+.i
+{margin-right: 1%;}
+.copyright
+{padding-top:20px;}
